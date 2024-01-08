@@ -10,6 +10,10 @@ This project utilizes the Mediapipe library to perform real-time posture detecti
 
 2. **Posture Improvement:** By providing real-time feedback on posture, the system assists users in maintaining a healthy sitting position. The accompanying posture report and images offer insights into specific areas of improvement.
 
+#### Pomodoro Technique explained
+
+The Pomodoro Technique is a time management method that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks. It promotes sustained focus and productivity while avoiding burnout.
+
 #### Python Version
 
 - **Raspberry Pi:** Python 3.7.3
@@ -61,6 +65,10 @@ This project utilizes the Mediapipe library to perform real-time posture detecti
 
    - **Note:** The session duration is currently set to 60 seconds for testing purposes. Adjust it to 25 minutes for a real Pomodoro session.
 
-#### Pomodoro Technique
+#### Contributors
 
-The Pomodoro Technique is a time management method that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks. It promotes sustained focus and productivity while avoiding burnout.
+- [pemladenov](https://github.com/pemladenov)
+- [pinluis](https://github.com/pinluis)
+- [johnjos1zhaw](https://github.com/johnjos1zhaw)
+
+    
