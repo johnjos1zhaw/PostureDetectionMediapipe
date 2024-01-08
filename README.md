@@ -20,8 +20,7 @@ This project utilizes the Mediapipe library to perform real-time posture detecti
 1. Clone the repository to your Raspberry Pi and laptop:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/johnjos1zhaw/PostureDetectionMediapipe.git
    ```
 
 2. Install required packages on the Raspberry Pi:
@@ -36,10 +35,10 @@ This project utilizes the Mediapipe library to perform real-time posture detecti
    pip install -r requirements.txt
    ```
 
-4. Find your Raspberry Pi's IP address:
+4. Find your Laptop's IP address:
 
    ```bash
-   ifconfig
+   ipconfig
    ```
 
    Copy the IPv4 address into the `pomodoro.py` file.
