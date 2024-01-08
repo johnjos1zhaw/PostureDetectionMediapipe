@@ -1,5 +1,11 @@
 ### Posture Detection with Mediapipe on the Raspberry Pi 4
 
+
+<p align="center">
+  <img src="https://github.com/johnjos1zhaw/PostureDetectionMediapipe/blob/main/IoT_Final_GIF.gif"/>
+</p>
+
+
 #### What is this?
 
 This project utilizes the Mediapipe library to perform real-time posture detection using the Raspberry Pi camera. The system helps users maintain better posture during work sessions, combining posture assessment with the Pomodoro Technique for effective time management.
