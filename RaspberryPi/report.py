@@ -3,7 +3,7 @@ import time
 from twilio.rest import Client
 
 account_sid = 'AC89e8a032aebf2f25740ef8da9363c3fc'
-auth_token = '6fc6281d96cb922ba032a53b09f75e17'
+auth_token = 'auth_token'
 from_whatsapp_number = 'whatsapp:+14155238886'
 to_whatsapp_number = 'whatsapp:+41767017159'
 
